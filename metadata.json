@@ -1,0 +1,6 @@
+{
+  "name": "SIPERPUS",
+  "description": "Sistem Informasi Peminjaman Perpustakaan SMA Negeri 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
